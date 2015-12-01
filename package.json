@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-icontrol",
+  "version": "0.0.1",
+  "description": "iControl (Xfinity Home) for Homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nfarina/homebridge-icontrol.git"
+  },
+  "bugs": {
+    "url": "http://github.com/nfarina/homebridge-icontrol/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "node-icontrol": "^0.1.5"
+  }
+}
