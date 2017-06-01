@@ -1,6 +1,6 @@
 {
   "name": "homebridge-icontrol",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "iControl (Xfinity Home) for Homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
   "keywords": [
@@ -18,6 +18,6 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "node-icontrol": "^0.1.5"
+    "node-icontrol": "^0.2.0"
   }
 }
